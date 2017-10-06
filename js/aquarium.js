@@ -45,6 +45,7 @@ var userLeft=0;
 //   document.getElementById("music").play();
 //
 // }
+alert("click on a character")
 $(".dory").on("click", function() {
 userTop = Math.random ()*500;
 userLeft= Math.random ()*500;
